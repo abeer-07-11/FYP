@@ -1,0 +1,396 @@
+{
+  "contact": [
+    {
+      "fname": "Tahir",
+      "lname": "Mehmood",
+      "phone": "0345-7536951",
+      "email": "SP17-BCS-139@cuilahore.edu.pk",
+      "msg": "This is the Message to test the post api.",
+      "id": 1
+    },
+    {
+      "fname": "Abeer",
+      "lname": "Tajamal",
+      "phone": "0321-7569841",
+      "email": "abeertajamal@gmail.com",
+      "msg": "This is a demo text for testing the Post API.",
+      "id": 2
+    },
+    {
+      "fname": "Hayyat",
+      "lname": "Fiaz",
+      "phone": "0321-45674321",
+      "email": "infp@amc.com",
+      "msg": "dgjongtthio[",
+      "id": 3
+    }
+  ],
+  "universities": [
+    {
+      "id": 1,
+      "name": "Lahore Garrison University",
+      "rank": "2",
+      "fee": "54000",
+      "degree": "BS Computer Science",
+      "website": "http://lgu.edu.pk/",
+      "department": "Computer"
+    },
+    {
+      "id": 2,
+      "name": "Fast NUCES",
+      "rank": "1",
+      "fee": "6000",
+      "degree": "BS Computer Science",
+      "website": "http://lhr.nu.edu.pk/",
+      "department": "Computer"
+    },
+    {
+      "name": "Comsats",
+      "degree": "BS Software Engineering",
+      "fee": "100000",
+      "rank": "2",
+      "website": "https://lahore.comsats.edu.pk/default.aspx",
+      "id": 3,
+      "department": "Computer"
+    },
+    {
+      "name": "Ripah International University",
+      "degree": "BS Accounting & Finance",
+      "fee": "60000",
+      "rank": "5",
+      "website": "https://www.riphah.edu.pk/",
+      "id": 4,
+      "department": "Commerce"
+    },
+    {
+      "name": " Pakistan Institute of Fashion and Design",
+      "degree": "BS Fashion & Designing",
+      "fee": "78000",
+      "rank": "1",
+      "website": "http://www.pifd.edu.pk/",
+      "id": 5,
+      "department": "Arts"
+    },
+    {
+      "name": "University of Lahore",
+      "degree": "BS Enviornmental Science",
+      "fee": "90000",
+      "rank": "5",
+      "website": "https://www.uol.edu.pk/",
+      "id": 6,
+      "department": "Social"
+    },
+    {
+      "name": "Lahore University of Management Sciences",
+      "degree": "BS Management Sciences",
+      "fee": "200000",
+      "rank": "1",
+      "website": "https://www.lums.edu.pk/",
+      "id": 7,
+      "department": "Management"
+    },
+    {
+      "name": " University Law College Punjab University",
+      "degree": "LLB",
+      "fee": "4500",
+      "rank": "1",
+      "department": "Law",
+      "website": "https:// www.pulc.edu.pk",
+      "id": 8
+    },
+    {
+      "name": " Allama Iqbal Open University Lahore",
+      "degree": "Bachelor of Dars-e-Nizami",
+      "fee": "55000",
+      "rank": "1",
+      "department": "Religious",
+      "website": "https://www.aiou.edu.pk/",
+      "id": 10
+    },
+    {
+      "name": "University Of Central Punjab",
+      "degree": "BS English",
+      "fee": "200000",
+      "rank": "3",
+      "department": "Language",
+      "website": "https://www.ucp.edu.pk/",
+      "id": 11
+    },
+    {
+      "name": "Lahore Garrison University",
+      "degree": "BS Mass & Communication",
+      "fee": "75000",
+      "rank": "1",
+      "department": "Media",
+      "website": "https://www.lgu.edu.pk/",
+      "id": 12
+    },
+    {
+      "name": "King Edward Medical University",
+      "degree": "Pharm D",
+      "fee": "40000",
+      "rank": "1",
+      "department": "Medical",
+      "website": "https://kemu.edu.pk/",
+      "id": 13
+    },
+    {
+      "name": "University of Engineering & Technology",
+      "degree": "BS Electric Engineering",
+      "fee": "38000",
+      "rank": "1",
+      "department": "Engineering",
+      "website": "https://www.uet.edu.pk/",
+      "id": 14
+    },
+    {
+      "name": "Information Technology University",
+      "degree": "MS Computer Science",
+      "fee": "125000",
+      "rank": "3",
+      "department": "CS",
+      "website": "https://itu.edu.pk/",
+      "id": 15
+    },
+    {
+      "name": "Govt College Township",
+      "degree": "MA Political Science",
+      "fee": "100000",
+      "rank": "6",
+      "department": "Sciences",
+      "website": "http://www.gctownship.edu.pk/",
+      "id": 16
+    },
+    {
+      "name": "Government College University",
+      "degree": "MA Urdu",
+      "fee": "80000",
+      "rank": "1",
+      "department": "Languages",
+      "website": "https://gcu.edu.pk/",
+      "id": 17
+    },
+    {
+      "name": " Quaid-e-Azam Law College",
+      "degree": "LLM",
+      "fee": "200000",
+      "rank": "1",
+      "department": "law",
+      "website": "https://qlc.edu.pk/",
+      "id": 18
+    },
+    {
+      "name": " Hazrat Ayesha Siddiqa Model Degree College",
+      "degree": "MA Islamic Studies",
+      "fee": "65000",
+      "rank": "5",
+      "department": "religious",
+      "website": "Nicholson Rd, Gawalmandi, Lahore, Punjab 54000",
+      "id": 19
+    },
+    {
+      "name": "University of Management and Technology ",
+      "degree": "Master in Media & Communication",
+      "fee": "45000",
+      "rank": "3",
+      "department": "media",
+      "website": "https://www.umt.edu.pk/",
+      "id": 20
+    },
+    {
+      "name": " National College Of Arts",
+      "degree": "MA Multimedia Arts",
+      "fee": "48900",
+      "rank": "4",
+      "department": "arts",
+      "website": "https://www.nca.edu.pk/",
+      "id": 21
+    },
+    {
+      "name": " Aims Institute Of Management Sciences",
+      "degree": "M.Com",
+      "fee": "45600",
+      "rank": "5",
+      "department": "commerce",
+      "website": "https://pakaims.edu.pk/",
+      "id": 22
+    },
+    {
+      "name": "University of Health Sciences",
+      "degree": "MSc Medical Technology",
+      "fee": "49000",
+      "rank": "2",
+      "department": "medical",
+      "website": "https://www.uhs.edu.pk/",
+      "id": 23
+    },
+    {
+      "name": "Information Technology University",
+      "degree": "MS Electric Engineering",
+      "fee": "135000",
+      "rank": "2",
+      "department": "engineering",
+      "website": "https://itu.edu.pk/",
+      "id": 24
+    },
+    {
+      "name": " Allama Iqbal Open University",
+      "degree": "MSc Sociology",
+      "fee": "78000",
+      "rank": "3",
+      "department": "sciences",
+      "website": "https://www.aiou.edu.pk/",
+      "id": 25
+    },
+    {
+      "name": "University of Lahore",
+      "degree": "MBA Management Science",
+      "fee": "120000",
+      "rank": "4",
+      "department": "sciences",
+      "website": "https://www.uol.edu.pk/",
+      "id": 26
+    },
+    {
+      "name": "University of South Asia",
+      "degree": "PhD Law",
+      "fee": "126000",
+      "rank": "8",
+      "department": "laws",
+      "website": "https://usa.edu.pk/",
+      "id": 27
+    },
+    {
+      "name": " Virtual University Of Pakistan",
+      "degree": "PhD Computer Science",
+      "fee": "90000",
+      "rank": "6",
+      "department": "computer",
+      "website": "https://www.vu.edu.pk/",
+      "id": 28
+    },
+    {
+      "name": " Lahore School Of Economics",
+      "degree": "PhD Economics",
+      "fee": "130000",
+      "rank": "1",
+      "department": "commerences",
+      "website": "https://lahoreschoolofeconomics.edu.pk/",
+      "id": 29
+    },
+    {
+      "name": "Minhaj University",
+      "degree": "PhD Arabic",
+      "fee": "30000",
+      "rank": "5",
+      "department": "languages",
+      "website": "https://www.mul.edu.pk/",
+      "id": 30
+    },
+    {
+      "name": " Forman Christian College University",
+      "degree": "PhD Public Policy",
+      "fee": "95000",
+      "rank": "2",
+      "department": "science",
+      "website": "https://www.fccollege.edu.pk/",
+      "id": 31
+    },
+    {
+      "name": "National College Of Arts",
+      "degree": "PhD Communication & Cultural Studies",
+      "fee": "56000",
+      "rank": "1",
+      "department": "art",
+      "website": "https://www.nca.edu.pk/",
+      "id": 32
+    },
+    {
+      "name": "National University of Modern Languages",
+      "degree": "PhD Islamic Studies",
+      "fee": "94000",
+      "rank": "3",
+      "department": "studies",
+      "website": "https://www.numl.edu.pk/",
+      "id": 33
+    },
+    {
+      "name": "Ripah International University",
+      "degree": "PhD Management Sciences",
+      "fee": "98000",
+      "rank": "3",
+      "department": "science",
+      "website": "https://www.riphah.edu.pk/",
+      "id": 34
+    },
+    {
+      "name": " University of Veterinary & Animal Sciences",
+      "degree": "PhD Anatomy & Histology",
+      "fee": "75000",
+      "rank": "1",
+      "department": "medicals",
+      "website": "http://www.uvas.edu.pk/",
+      "id": 35
+    },
+    {
+      "name": "University Of The Punjab",
+      "degree": "PhD in Communication Studies",
+      "fee": "59000",
+      "rank": "1",
+      "department": "mediA",
+      "website": "http://www.pu.edu.pk/",
+      "id": 36
+    },
+    {
+      "name": "FAST NUCES",
+      "degree": "PhD Electrical Engineering",
+      "fee": "89000",
+      "rank": "3",
+      "department": "eng",
+      "website": "http://lhr.nu.edu.pk/",
+      "id": 37
+    }
+  ],
+  "colleges": [
+    {
+      "id": 1,
+      "name": "Punjab Group of Colleges",
+      "rank": "5",
+      "fee": "96000",
+      "degree": "I.C.S",
+      "website": "https://www.pgc.edu/"
+    },
+    {
+      "name": "Forman Christian College",
+      "degree": "Pre Medical",
+      "fee": "18000",
+      "rank": "3",
+      "website": "https://www.fccollege.edu.pk/",
+      "id": 4
+    },
+    {
+      "name": "Forman Christian College",
+      "degree": "Pre-Engineering",
+      "fee": "175000",
+      "rank": "2",
+      "website": "https://www.fccollege.edu.pk/",
+      "id": 5
+    },
+    {
+      "name": "Punjab Group of Colleges",
+      "degree": "Arts",
+      "fee": "75000",
+      "rank": "4",
+      "website": "https://www.pgc.edu/",
+      "id": 6
+    },
+    {
+      "name": "Superior Group of Colleges",
+      "degree": "I.Com",
+      "fee": "50000",
+      "rank": "8",
+      "website": "https://www.superior.edu.pk/",
+      "id": 7
+    }
+  ]
+}
