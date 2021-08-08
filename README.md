@@ -1,2 +1,2 @@
-# Amaken
- Amaken front-End using tailwind
+# Academic Program Finder & Recommender
+ APF&R front-End using tailwind & Material UI
