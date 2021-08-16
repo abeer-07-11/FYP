@@ -31,6 +31,10 @@ const Header = () => {
                 <li className="inline-block mr-2 font-semibold text-base hover:text-gray-700 transition duration-500 ease-in-out">
                     <Link to="/contact">Contact Us</Link></li>
                 <li className="inline-block mr-2 font-semibold text-base hover:text-gray-700 transition duration-500 ease-in-out">
+                    <Link to="/ChatBot">ChatBot</Link></li>
+                <li className="inline-block mr-2 font-semibold text-base hover:text-gray-700 transition duration-500 ease-in-out">
+                    <Link to="/chat">LiveChat</Link></li>
+                <li className="inline-block mr-2 font-semibold text-base hover:text-gray-700 transition duration-500 ease-in-out">
                     <Link to="/signin"><img className="rounded-full" src={admin} /></Link></li>
             </First>
                 

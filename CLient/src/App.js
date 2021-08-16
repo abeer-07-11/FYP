@@ -44,6 +44,8 @@ import EditCollege from './components/Admin/CRUD/Colleges/EditCollege';
 import Universities from './components/Admin/CRUD/Universities/ViewUniversities';
 import AddUniversity from './components/Admin/CRUD/Universities/AddUniversity';
 import EditUniversity from './components/Admin/CRUD/Universities/EditUniversity';
+import Chatbot from './components/Chatbot/Chatbot.jsx';
+import Chat from './components/Chat System/Chat/Chat';
 
 const App = () => {
   return ( 
@@ -92,6 +94,8 @@ const App = () => {
           <Route exact path = '/university' component={Universities} />
           <Route exact path = '/university/add' component={AddUniversity} />
           <Route exact path = '/university/edit/:id' component={EditUniversity} />
+          <Route exact path = '/ChatBot' component={Chatbot} />
+          <Route exact path = '/chat' component={Chat} />
         </Switch>
       <Footer/>
     </Router> 
